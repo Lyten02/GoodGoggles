@@ -1,0 +1,15 @@
+! name: GoodGoggles — Download (Legal)
+! description: Whitelist: legal buy/rent/download sources (edit domains as needed)
+! public: false
+! author: Konstantin
+
+$discard
+
+$boost=10,site=rutracker.org
+$boost=10,site=thelastgame.org
+$boost=10,site=freetp.org
+$boost=10,site=online-fix.me
+$boost=10,site=byrut.org
+$boost=10,site=byrutgame.org
+
+
