@@ -1,0 +1,17 @@
+! name: GoodGoggles — Download (Legal)
+! description: Whitelist: legal buy/rent/download sources (edit domains as needed)
+! public: false
+! author: Konstantin
+
+$discard
+
+$boost=10,site=tv.apple.com
+$boost=10,site=play.google.com
+$boost=9,site=primevideo.com
+$boost=9,site=justwatch.com
+
+$boost=8,site=moviesanywhere.com
+$boost=8,site=vudu.com
+$boost=8,site=fandangoathome.com
+$boost=8,site=microsoft.com
+

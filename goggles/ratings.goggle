@@ -1,0 +1,12 @@
+! name: GoodGoggles — Ratings
+! description: Whitelist: ratings/reviews only (edit domains as needed)
+! public: false
+! author: Konstantin
+
+$discard
+
+$boost=10,site=imdb.com
+$boost=10,site=letterboxd.com
+$boost=10,site=rottentomatoes.com
+$boost=10,site=metacritic.com
+

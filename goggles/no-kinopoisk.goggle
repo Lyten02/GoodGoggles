@@ -1,0 +1,7 @@
+! name: GoodGoggles — No Kinopoisk
+! description: Hide kinopoisk.ru results
+! public: false
+! author: Konstantin
+
+$discard,site=kinopoisk.ru
+

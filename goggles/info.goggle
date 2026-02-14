@@ -1,0 +1,16 @@
+! name: GoodGoggles — Info (RU)
+! description: Whitelist: encyclopedias & knowledge bases (RU/EN)
+! public: false
+! author: Konstantin
+
+$discard
+
+$boost=10,site=ru.wikipedia.org
+$boost=9,site=en.wikipedia.org
+$boost=8,site=wikidata.org
+$boost=8,site=bigenc.ru
+$boost=7,site=britannica.com
+$boost=7,site=ru.wiktionary.org
+$boost=7,site=ru.wikisource.org
+$boost=7,site=ru.wikibooks.org
+
