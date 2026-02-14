@@ -1,15 +1,15 @@
-! name: GoodGoggles — Movies/Anime/Series (Legal)
-! description: Whitelist: pages + legal streaming (no wiki by default)
+! name: Смотреть
+! description: Для просмотра фильмов, сериалов, аниме
 ! public: false
 ! author: Konstantin
 
 $discard
 
 $boost=10,site=site.yummyani.me
-$boost=9,site=animesss.com
-$boost=9,site=animestars.org
-$boost=8,site=hdrezka.ag
-$boost=8,site=rezka.ag
+$boost=10,site=animesss.com
+$boost=10,site=animestars.org
+$boost=10,site=hdrezka.ag
+$boost=10,site=rezka.ag
 $boost=7,site=shiki.one
 $boost=6,site=jut.su
 
