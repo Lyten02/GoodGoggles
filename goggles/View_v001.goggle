@@ -5,6 +5,7 @@
 
 $discard
 
+$boost=10,site=en.yummyani.me
 $boost=10,site=site.yummyani.me
 $boost=10,site=animesss.com
 $boost=10,site=animestars.org
